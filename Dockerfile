@@ -1,4 +1,4 @@
-FROM quay.io/eclipse/che-java11-maven:nightly
+FROM centos/mongodb-36-centos7
 
 MAINTAINER tech-tejendra
 
